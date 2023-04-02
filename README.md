@@ -279,7 +279,7 @@ Go to `client` folder and execute the following command in order to run the web 
 
 [![Tech Stack](https://skillicons.dev/icons?i=react,materialui,nodejs,express)](https://skillicons.dev)
 
-**Client:** React, MUI, Axios, React-Player, React-Loader-Spinner, uuid
+**Client:** React, MUI, Axios, React-Player, uuid
 
 **Server:** Node, Express, Axios, CORS, compression, nodemon
 
