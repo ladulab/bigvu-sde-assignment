@@ -20,7 +20,8 @@ const Home = () => {
       <Box
         sx={{
           display: "flex",
-          flexDirection: { xs: "column", sm: "column", lg: "row" },
+          flexDirection: { xs: "column", md: "row" },
+          flexWrap: "flex",
           gap: { xs: "17px", md: "28px" },
         }}
       >
