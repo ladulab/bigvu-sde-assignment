@@ -284,7 +284,8 @@ Go to `client` folder and execute the following command in order to run the web 
 **Server:** Node, Express, Axios, CORS, compression, nodemon
 
 <!-- SCREENSHOTS -->
+<!--
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+-->
