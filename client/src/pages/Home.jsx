@@ -21,7 +21,7 @@ const Home = () => {
         sx={{
           display: "flex",
           flexDirection: { xs: "column", md: "row" },
-          flexWrap: "flex",
+          flexWrap: "wrap",
           gap: { xs: "17px", md: "28px" },
         }}
       >
